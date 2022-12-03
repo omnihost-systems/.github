@@ -1,3 +1,3 @@
 # Omnihost Systems
 
-Manage all your ivnentory, customers, and tasks in one, unified, personalized system
+Manage all your inventory, customers, and tasks in one, unified, personalized system
